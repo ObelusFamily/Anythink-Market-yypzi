@@ -8,6 +8,18 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
 
-## First setup
+## Setup your application(your-github-repo) locally
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+1) Install Docker on your machine.
+
+Docker installation link:- https://docs.docker.com/get-docker/
+
+2) Install Docker Compose on your machine.
+
+Docker Compose installation link:- https://docs.docker.com/compose/install/
+
+3) Open Terminal and go to your project directory where `docker-compose` file is and run the following command.
+
+`docker-compose up`.
+
+4) You are all set. `Enjoy Coding !!`
