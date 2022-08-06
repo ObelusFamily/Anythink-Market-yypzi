@@ -4,7 +4,7 @@ import { connect } from "react-redux";
 import agent from "../../agent";
 import {
   ITEM_PAGE_LOADED,
-  ITEM_PAGE_UNLOADED,
+  ITEM_PAGE_UNLOADED
 } from "../../constants/actionTypes";
 import CommentContainer from "./CommentContainer";
 import ItemMeta from "./ItemMeta";
